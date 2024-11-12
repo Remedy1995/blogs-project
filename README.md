@@ -1,26 +1,27 @@
 Step 1: Clone the Repository
 You can clone the repository by running:
 
-bash
-Copy code
+
 git clone https://github.com/Remedy1995/blogs-project.git
 cd blogs-project
+
+
 Step 2: Create and Activate a Virtual Environment
 you should create and activate a virtual environment:
 
-bash
-Copy code
 python -m venv env
-# Activate the virtual environment
-# On Windows
+Activate the virtual environment
+
+On Windows
 env\Scripts\activate
-# On macOS/Linux
+
+On macOS/Linux
 source env/bin/activate
+
 Step 3: Install the Project Dependencies
 Inside the activated virtual environment, install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 
 Step 5: Run Migrations
