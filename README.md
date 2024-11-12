@@ -3,8 +3,8 @@ You can clone the repository by running:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Remedy1995/blogs-project.git
+cd blogs-project
 Step 2: Create and Activate a Virtual Environment
 you should create and activate a virtual environment:
 
