@@ -1,12 +1,12 @@
 Step 1: Clone the Repository
-They can clone the repository by running:
+You can clone the repository by running:
 
 bash
 Copy code
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 Step 2: Create and Activate a Virtual Environment
-They should create and activate a virtual environment:
+you should create and activate a virtual environment:
 
 bash
 Copy code
@@ -24,16 +24,16 @@ Copy code
 pip install -r requirements.txt
 
 Step 5: Run Migrations
-They should run the Django migrations to set up the database:
+you should run the Django migrations to set up the database:
 
 python manage.py migrate
 
 Step 6 : Run the Django Server:
-After installing the dependencies, they can run the Django app with:
+After installing the dependencies, you can run the Django app with:
 
 
 python manage.py runserver
-This will start the Django development server, and they should be able to access the app via http://127.0.0.1:8000/ in their browser.
+This will start the Django development server, and you should be able to access the app via http://127.0.0.1:8000/ in their browser.
 
 
 Blogs

@@ -1,0 +1,11 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3  # If you’re using SQLite as your database
+
+# Environment variables
+.env
+
+# Static and media files
+static/
+media/
